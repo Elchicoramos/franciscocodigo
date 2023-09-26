@@ -1,0 +1,17 @@
+git clone - ir buscar do 0 um repositorio remoto
+git add - adicionar algo normalmente um ficheiro para o git gerir
+git commit - cometer codigo, normalmente associado a uma mensage, e tens de fazer git add para ele saber que codigo dar commit.
+git commit -m 'a tua mensagem' - -m é o atalho para mensagem associada ao commit
+git push - empurraste o codigo commited para o repositorio remoto
+git pull - puxaste o codigo remoto para o teu repositorio local
+
+
+ANTES DE FAZERES ALGO NESTE REPO:
+
+git pull
+
+Antes de finalizares
+
+git add (dos ficheiros trabalhados)
+git commit -m 'a tua mensagem'
+git push
